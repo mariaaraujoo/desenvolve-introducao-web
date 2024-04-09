@@ -5,3 +5,26 @@
 html {background:#8C3E37;color: #F2CEAE;}
 .destaque{color: #D97D5B;}
 
+html{
+    font-size: 17px;
+    font-family: sans-serif 
+}
+p{
+    text-indent: 1em;
+}
+h1,h2,h3{
+    text-align: center;
+}
+h1{
+    font-size: 1.8rem;
+}
+h2{
+    font-size: 1.4rem;
+}
+h3{
+    font-size: 1.2rem;
+}
+.summary{
+    text-align: center;
+}
+.main p{line-height: 1.5;}
