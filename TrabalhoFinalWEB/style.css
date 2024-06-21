@@ -1,0 +1,43 @@
+html{
+    background-color: white;
+}
+.navegacao {
+    color: black;
+    border-radius: 20px;
+    display: flex;
+    height: 75px;
+    background-color: white;
+    font-size: 25px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    top: 0px;
+    right: 50px;
+    border-top: 40px;
+    position: fixed;
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+.navegacao{
+    display: flex;
+}
+#rodape{
+    color: white;
+    background-color: black;
+}
+#Formaçao, #Certificaçoes, #Habilidades{
+    text-align: center;
+}
+.cabecalho {
+    display: flex;
+}
+#fotoperfil {
+    border-radius: 75px;
+}
+
